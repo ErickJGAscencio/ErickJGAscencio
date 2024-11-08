@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-========================================================================================
 
 Web Developer
 -------------
@@ -25,3 +24,4 @@ Enthusiastic about web development from backend to frontend, handling Django and
 *   ✉️  You can contact me at [erickjesus.guzmanascencio@gmail.com](mailto:erickjesus.guzmanascencio@gmail.com)
 *   🚀  I'm currently working on [Workcloud](http://workcloud.onrender.com)
 *   🧠  I'm learning React.js
+*   ⚡ Fun fact: I'm Spiderman, but don't tell anyone
