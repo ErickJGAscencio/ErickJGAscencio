@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 Web Developer
 -------------
 
-Full-Stack Web Developer | Passionate about Creating Interactive and Scalable Web Apps. I'm a web developer enthusiastic about both backend and frontend development, using Django and React to bring ideas to life. I enjoy exploring new technologies, frameworks, and development methods to improve my skillset and deliver exceptional applications.
+Full-Stack Web Developer | Passionate about Creating Interactive and Scalable Web Apps. 
+
+I'm a web developer enthusiastic about both backend and frontend development, using Django and React to bring ideas to life. I enjoy exploring new technologies, frameworks, and development methods to improve my skillset and deliver exceptional applications.
 
 *   🌍  I'm based in Mexico
 *   📫 How to Reach Me
