@@ -1,20 +1,27 @@
-Hi there 👋 I'm Erick Ascencio
-Full-Stack Web Developer | Passionate about Creating Interactive and Scalable Web Apps
-I'm a web developer enthusiastic about both backend and frontend development, using Django and React to bring ideas to life. I enjoy exploring new technologies, frameworks, and development methods to improve my skillset and deliver exceptional applications.
+## Hi there 👋 my name is Erick Ascencio
 
-🚀 What I'm Working On
-Currently working on: Workcloud — A web app for project management and collaboration.
-Learning: React.js (expanding my frontend skills to build more interactive UIs).
-🔧 Tech Stack & Tools
-Frontend: React, Redux, JavaScript (ES6+), HTML5, CSS3, TailwindCSS
-Backend: Django, Django REST Framework, Python
-Database: PostgreSQL, SQLite
-Tools: Git, GitHub, Docker, VS Code
-🌱 I'm Always Learning
-Expanding my skills in Frontend Development with React and Cloud Deployment using platforms like Render and Vercel.
-📫 How to Reach Me
-📧 Email: erickjesus.guzmanascencio@gmail.com
-💼 LinkedIn: linkedin.com/in/erickascencio
-🐦 Twitter: @erickascencio
-⚡ Fun Fact
-I'm Spiderman, but don't tell anyone 😉.
+<!--
+**ErickJGAscencio/ErickJGAscencio** is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+Web Developer
+-------------
+
+Enthusiastic about web development from backend to frontend, handling Django and React to make ideas come true. I like to try new technologies and software development methods.
+
+*   🌍  I'm based in Mexico
+*   ✉️  You can contact me at [erickjesus.guzmanascencio@gmail.com](mailto:erickjesus.guzmanascencio@gmail.com)
+*   🚀  I'm currently working on [Workcloud](http://workcloud.onrender.com)
+*   🧠  I'm learning React.js
+*   ⚡ Fun fact: I'm Spiderman, but don't tell anyone
