@@ -22,9 +22,15 @@ Full-Stack Web Developer | Passionate about Creating Interactive and Scalable We
 
 *   🌍  I'm based in Mexico
 *   ✉️  You can contact me at [erickjesus.guzmanascencio@gmail.com](mailto:erickjesus.guzmanascencio@gmail.com)
-*   🚀  I'm currently working on [Workcloud](http://workcloud.onrender.com)
-*   🚀 What I'm Working On
-*   Currently working on: Workcloud — A web app for project management and collaboration.
-*   Learning: React.js (expanding my frontend skills to build more interactive UIs).
-*   🧠  I'm learning React.js
-*   ⚡ Fun fact: I'm Spiderman, but don't tell anyone
+*   🚀  I'm Currently Working On [Workcloud](http://workcloud.onrender.com) — A web app for project management and collaboration.
+*   🧠  I'm learning React.js (expanding my frontend skills to build more interactive UIs).
+*   ⚡ Fun fact: I'm Spiderman, but don't tell anyone 😉.
+*   📫 How to Reach Me
+*   📧 Email: erickjesus.guzmanascencio@gmail.com
+*   💼 LinkedIn: [Erick Ascencio](https://www.linkedin.com/in/erick-jes%C3%BAs-guzm%C3%A1n-ascencio-60a068159/)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+
+
+![Erick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ErickJGAscencio&show_icons=true&count_private=true)
