@@ -31,8 +31,6 @@ Full-Stack Web Developer | Passionate about Creating Interactive and Scalable We
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/react?style=flat&logo=react&logoColor=white)
-
-
-
+https://img.shields.io/badge/JavaScript-F4DC1C?style=flat&logo=javascript&logoColor=black
 
 ![Erick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ErickJGAscencio&show_icons=true&count_private=true)
