@@ -33,5 +33,6 @@ Full-Stack Web Developer | Passionate about Creating Interactive and Scalable We
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F4DC1C?style=flat&logo=javascript&logoColor=black)
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickJGAscencio&layout=compact)
 ![Erick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ErickJGAscencio&show_icons=true&count_private=true)
+![](https://komarev.com/ghpvc/?username=ErickJGAscencio&color=blue)
