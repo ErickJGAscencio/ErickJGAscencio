@@ -34,6 +34,8 @@ I'm a web developer enthusiastic about both backend and frontend development, us
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F4DC1C?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickJGAscencio&layout=compact)
 ![Erick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ErickJGAscencio&show_icons=true&count_private=true)
